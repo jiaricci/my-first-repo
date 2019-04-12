@@ -1,31 +1,23 @@
-# This is a large heading
+# Joe Iaricci
 
-## This is a smaller heading
+### Golf and Cycling
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetics pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**
+I live in Laval a city North of Montreal, Quebec Canada
 
--This is
--and unordered
--list
+### Food
 
-1. This is
-2. an ordered
-3. list
+We truely have amazing food here in Monteal.
 
-Here is 'some code' in the middle of a sentence.
+Also great bagels
 
-'''
-This is
-a block
-of code
-'''
+As close to Europe without going there.
 
-Here is how you make [a link] (https://www.wikepedia.org/).
+### Contact
 
-![This is an image.] (https://github.com/yihui/xar\
-ingan/releases/download/v0.0.2/karl-moustache.jpg)
+You can contact me via email.
+
+joe.iaricci6@gmail.com
+
+
 
 
